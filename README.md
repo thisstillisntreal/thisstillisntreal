@@ -1,4 +1,4 @@
-👋 Hi, I’m Robert Rahm
+👋 Hi, I’m Rober Rah
 Welcome to my GitHub profile!
 
 I’m just getting started with GitHub and excited to begin sharing my projects, ideas, and code with the world. I’m building my way into development — one commit at a time.
